@@ -1,0 +1,26 @@
+{
+  "name": "company-database",
+  "version": "1.0.0",
+  "description": "Database used to store company information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdkowal/company-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdkowal/company-database/issues"
+  },
+  "homepage": "https://github.com/jdkowal/company-database#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.2"
+  }
+}
