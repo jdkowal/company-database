@@ -1,7 +1,8 @@
 # company-database
 Database used to store company information 
 ![link to Github](https://github.com/jdkowal/company-database)
-![Link to Video](https://drive.google.com/file/d/1uMLA6Qt3AhL_NJdNZZ620JEdVNpA4j2_/view)
+
+![Link to Video](https://drive.google.com/file/d/1uMLA6Qt3AhL_NJdNZZ620JEdVNpA4j2_/view?usp=sharing)
 
 ## Description
 The goal of this exercise was to take some stater code and make it do the following 
